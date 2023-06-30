@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtApp</string>
+    <string name="first_author">Android</string>
+    <string name="first_description">Android is good!</string>
+    <string name="second_author">Castle</string>
+    <string name="second_description">Castle consist of stones</string>
+    <string name="third_author">Forest</string>
+    <string name="third_description">Nature is good!</string>
+
+    <string name="btn_prev">Previous</string>
+    <string name="btn_next">Next</string>
+</resources>
